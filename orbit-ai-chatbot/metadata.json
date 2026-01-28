@@ -1,0 +1,7 @@
+{
+  "name": "Orbit AI Chatbot",
+  "description": "A sophisticated, responsive AI chatbot web application built with React, Tailwind CSS, and the Gemini API. Featuring real-time streaming responses, conversation persistence, and multiple AI personalities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
